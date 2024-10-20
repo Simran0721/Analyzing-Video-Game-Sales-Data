@@ -29,6 +29,7 @@ To analyze video game sales data to identify popular genres, platforms, and regi
 
 ## Data Set Used:
 <a href="https://github.com/Simran0721/Analyzing-Video-Game-Sales-Data/blob/main/vgsales.csv">DataSet</a>
+
 A dataset containing information about video game sales, including game title, genre, platform, region, sales figures, and more.
 
 ## Questions (KPIs):
